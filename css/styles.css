@@ -1,9 +1,12 @@
 body {
+    background-color: #a8d3bd;
+    color: #000000;
+}
+h1 {
+    color: #e0cdcd;
+    background-color: #e0e3d3;
+    color: #000000;
+     background-color: #d1d2d1;
+    color: #000000;
     
-  
-    background-color: #f1f4f6;
-        color: #000000;
-    }
-    h1 {
-        color: #000000;
-    }
+}
